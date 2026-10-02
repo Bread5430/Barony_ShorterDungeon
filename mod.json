@@ -1,0 +1,8 @@
+{
+  "$schema": "https://spider12223.github.io/SAM-Framework/schemas/mod.schema.json",
+  "namespace": "shorterdungeon",
+  "name": "Shorter Dungeon",
+  "version": "1.0.0",
+  "framework_min_version": "3.3.0",
+  "description": "Skips redundant main-biome floors, grants 1.6x kill XP, reduces positive item weights by 30%, and sometimes identifies a second item."
+}
