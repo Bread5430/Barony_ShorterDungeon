@@ -1,0 +1,11 @@
+{
+  "$schema": "https://spider12223.github.io/SAM-Framework/schemas/item.schema.json",
+  "id": "shorterdungeon:options",
+  "name_identified": "Shorter Dungeon Options",
+  "name_unidentified": "Shorter Dungeon Options",
+  "category": "BOOK",
+  "level": -1,
+  "weight": 0,
+  "gold_value": 0,
+  "description": "Not loot. This file exists so S.A.M loads options.lua. Edit options.lua."
+}
